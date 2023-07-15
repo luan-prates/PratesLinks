@@ -58,10 +58,10 @@ ul li a {
   text-decoration: none;
   font-weight: bold;
 
-  transition: background 0.2s;
+  transition: background 0.3s;
 }
 
 ul li a:hover {
-  background: rgba(255, 255, 255, 0.5);
+  background: rgba(255, 255, 255, 0.4);
   border: 1.5px solid white;
 }
