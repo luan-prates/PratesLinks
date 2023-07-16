@@ -1,7 +1,7 @@
 <h1 align="center"> PratesLinks </h1>
 
 <p align="center">
-Um agregador de links para usar como cartão de visitas online, inspirado no projeto do Curso Discover da Rocketseat <br/>
+Um agregador de links para usar como cartão de visitas online, inspirado no projeto do Discover da Rocketseat <br/>
 <a href="https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito">Aprenda como fazer esse Projeto com eles em formato de vídeo.</a>
 </p>
 
@@ -49,4 +49,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Luan Prates :wave: [Participe da comunidade da 🚀 Rocketseat](https://discord.gg/rocketseat)
+Feito com ♥ by Luan Prates :wave: [Participe da comunidade da 🚀 Rocketseat](https://discord.gg/rocketseat) e me adiciona por láq
