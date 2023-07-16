@@ -11,7 +11,7 @@ function toggleMode() {
       "Foto de Luan Prates Sorrindo, usando óculos escuros, camisa amarela e barba. "
     );
   } else {
-    img.setAttribute("src", "./assets/avatar.png");
+    img.setAttribute("src", "./assets/avatar-code.png");
     img.setAttribute(
       "alt",
       "Foto de Luan Prates Sorrindo, usando óculos, camisa amarela e barba, ele está com a mão esquerda atrás da cabeça mostrando seu braço todo tatuado."
