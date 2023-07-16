@@ -49,4 +49,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Luan Prates :wave: [Participe da nossa comunidade da 🚀 Rocket](https://discord.gg/rocketseat)
+Feito com ♥ by Luan Prates :wave: [Participe da comunidade da 🚀 Rocketseat](https://discord.gg/rocketseat)
